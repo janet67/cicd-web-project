@@ -6,7 +6,8 @@
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
-    <h1>Have a nice day.</h1>
+    <h1>Have a happy day.</h1>
+    <h1>Have a great day.</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
 </body>
 </html>
